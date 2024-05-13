@@ -14,6 +14,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Esternit&theme=radical)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Esternit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--START_SECTION:waka-->
