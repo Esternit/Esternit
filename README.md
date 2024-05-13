@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+
 <!--
 **Esternit/Esternit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
