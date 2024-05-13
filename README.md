@@ -12,7 +12,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Esternit&color=blue)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esternit&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Esternit&theme=radical)](https://git.io/streak-stats)
 <!--
 **Esternit/Esternit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
