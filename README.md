@@ -12,7 +12,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Esternit&color=blue)
 
-![](https://ci.appveyor.com/project/Esternit/DelaemVeshiFront/branch/main)
 <!--
 **Esternit/Esternit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
