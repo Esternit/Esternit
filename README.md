@@ -13,6 +13,9 @@
 ![](https://komarev.com/ghpvc/?username=Esternit&color=blue)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Esternit&theme=radical)](https://git.io/streak-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--
 **Esternit/Esternit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
