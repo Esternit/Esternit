@@ -14,6 +14,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Esternit&theme=radical)](https://git.io/streak-stats)
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <!--
