@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=7194F7&background=000000&center=true&vCenter=true&random=false&width=1000&lines=Hey+there+%F0%9F%91%8B;My+name+is+Dmitry;And+welcome+to+my+profile+page)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=7194F7&background=000000&center=true&vCenter=true&random=false&width=850&lines=Hey+there+%F0%9F%91%8B;My+name+is+Dmitry;And+welcome+to+my+profile+page)](https://git.io/typing-svg)
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
