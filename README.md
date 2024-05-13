@@ -1,5 +1,5 @@
 ### Hi there 👋
-	![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
+
 <!--
 **Esternit/Esternit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
