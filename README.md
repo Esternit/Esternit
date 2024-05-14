@@ -23,6 +23,14 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--START_SECTION:waka-->
+
+```txt
+YAML         4 mins          █████████████████████▓░░░   86.74 %
+Markdown     0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+TypeScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+```
+
 <!--END_SECTION:waka-->
 <!--
 **Esternit/Esternit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
