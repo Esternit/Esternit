@@ -13,7 +13,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Esternit&color=blue)
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Esternit&theme=radical)](https://git.io/streak-stats)
+
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=Esternit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
