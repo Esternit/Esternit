@@ -28,11 +28,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript        7 hrs 40 mins   ████████▓░░░░░░░░░░░░░░░░   34.06 %
-YAML              7 hrs 1 min     ███████▓░░░░░░░░░░░░░░░░░   31.19 %
-Docker            1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
-Java              1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-Java Properties   49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+JavaScript        11 hrs 21 mins  ████████████▒░░░░░░░░░░░░   48.67 %
+YAML              6 hrs 43 mins   ███████▒░░░░░░░░░░░░░░░░░   28.85 %
+Docker            1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+Java              1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+GitIgnore file    36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
 ```
 
 <!--END_SECTION:waka-->
