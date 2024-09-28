@@ -24,6 +24,7 @@
 
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/Esternit/DurakFrontend/pull/2) in [Esternit/DurakFrontend](https://github.com/Esternit/DurakFrontend)
 <!--END_SECTION:activity-->
 <!--START_SECTION:waka-->
 
